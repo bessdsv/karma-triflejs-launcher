@@ -1,0 +1,18 @@
+{
+  "name": "karma-triflejs-launcher",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bessdsv/karma-triflejs-launcher.git"
+  },
+  "bugs": {
+    "url": "http://github.com/bessdsv/karma-triflejs-launcher/issues"
+  },
+  "version": "0.0.6",
+  "scripts": {
+    "postinstall": "node scripts/install.js"
+  },
+  "dependencies": {
+    "request": "^2.53.0",
+    "unzip": "^0.1.11"
+  }
+}
