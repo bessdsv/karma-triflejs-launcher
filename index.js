@@ -59,8 +59,8 @@ trifleJSBrowser.prototype = {
 	name: 'trifleJS',
 
 	DEFAULT_CMD: {
-		linux: require( 'triflejs' ).path,
-		darwin: require( 'triflejs' ).path,
+		//linux: require( 'triflejs' ).path,
+		//darwin: require( 'triflejs' ).path,
 		win32: trifleJSExePath()
 	},
 	ENV_CMD: 'trifleJS_BIN'
