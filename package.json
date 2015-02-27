@@ -7,7 +7,7 @@
   "bugs": {
     "url": "http://github.com/bessdsv/karma-triflejs-launcher/issues"
   },
-  "version": "0.0.7",
+  "version": "0.0.8",
   "scripts": {
     "postinstall": "node scripts/install.js"
   },
